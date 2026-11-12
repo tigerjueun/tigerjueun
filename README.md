@@ -62,12 +62,13 @@ Electrical & Electronic Engineering Undergraduate @ Konkuk University
 
 | Year | Official Activity / Competition | Result |
 |---|---|---|
-| 2024 | **Hult Prize HYU OnCampus Program** — Hanyang University | Completed the final-round program |
-| 2025 | **Konkuk University Startup Ideathon** (건국대학교 창업아이디어톤) | Award recipient |
-| 2026 | **2026 Bootivation Hackathon** (건국대 부티베이션 해커톤) | Participated as an engineer |
-| 2026 | **18th Konkuk University Creative Design Competition** (건국대학교 제18회 창의설계경진대회) | Encouragement Award · AEGIS team lead |
-| 2026 | **24th Embedded Software Contest — Free Competition Division** (제24회 임베디드SW경진대회 자유공모 부문) | Final-round demonstration and presentation completed · Results pending (as of Nov 12, 2026) |
-| 2025–2026 | **Konkuk University Learning & Sharing Project — Project Track** | Selected for three consecutive semesters (2025-2, 2026-1, 2026-2); Outstanding Team Award in 2026-1; currently participating in 2026-2 |
+| 2025.01 | **2024 꿈(KU:Maker) 메이커 아이디어 공모전** | **4th Place Award** (2025.01.17) |
+| 2025.01 | **2024 한양 Hult Prize On Campus** | **Program Completed** (2025.01.24) |
+| 2025 | **건국대학교 창업아이디어톤** | Award recipient |
+| 2026 | **2026 Bootivation 해커톤** | **Engineering Lead** (엔지니어 총괄) |
+| 2026 | **건국대학교 제18회 창의설계경진대회** | Encouragement Award · AEGIS Team Lead |
+| 2026 | **제24회 임베디드SW경진대회 자유공모 부문** | Final-round demonstration and presentation completed · Results pending (as of Nov 12, 2026) |
+| 2025–2026 | **건국대학교 Learning & Sharing Project — 프로젝트형** | Selected for three consecutive semesters (2025-2, 2026-1, 2026-2); Outstanding Team Award in 2026-1; participating in 2026-2 |
 
 ## Education
 
