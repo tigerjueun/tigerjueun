@@ -62,12 +62,12 @@ Electrical & Electronic Engineering Undergraduate @ Konkuk University
 
 | Year | Competition / Activity | Result |
 |---|---|---|
-| 2025 | **2024 KU:Maker Idea Competition** — Konkuk University (Startup Ideathon) | **4th Place Award** |
-| 2025 | **2024 Hult Prize On Campus** — Hanyang University | **Program Completed** |
-| 2026 | **2026 Bootivation Hackathon** — Konkuk University | **Engineering Lead** |
+| 2025 | **2024 KU:Maker Idea Competition** — Konkuk University | **4th Place Award** · Startup Idea Development |
+| 2025 | **2024 Hult Prize On Campus** — Hanyang University | **Program Completed** · Entrepreneurship Program |
+| 2026 | **2026 Bootivation Hackathon** — Konkuk University | **Engineering Lead** · System Development & Integration |
 | 2026 | **18th Creative Design Competition** — Konkuk University | **Encouragement Award** · AEGIS Team Lead |
-| 2026 | **24th Embedded Software Contest — Free Competition Division** | Final-round demonstration and presentation completed · Results pending (as of Nov 12, 2026) |
-| 2025–2026 | **Learning & Sharing Project — Project Track** — Konkuk University | Selected for three consecutive semesters (2025-2, 2026-1, 2026-2); Outstanding Team Award in 2026-1; participating in 2026-2 |
+| 2026 | **24th Embedded Software Contest — Free Competition Division** | **Finalist** · AEGIS System Demonstration (Results Pending) |
+| 2025–2026 | **Learning & Sharing Project — Project Track** — Konkuk University | **Outstanding Team Award (2026-1)** · Selected for 3 Consecutive Semesters (2025-2 to 2026-2; ongoing) |
 
 ## Education
 
