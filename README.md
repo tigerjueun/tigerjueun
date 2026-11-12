@@ -34,10 +34,17 @@ Electrical & Electronic Engineering Undergraduate @ Konkuk University
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ATmega128](https://img.shields.io/badge/ATmega128-555555?style=flat-square)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**3D Design & Media**
+
+![3D Printing](https://img.shields.io/badge/3D%20Printing-566573?style=flat-square)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-222222?style=flat-square)
 
 ## Selected Projects
 
