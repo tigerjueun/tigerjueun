@@ -27,6 +27,7 @@ Electrical & Electronic Engineering Undergraduate @ Konkuk University
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
 ![ResNet](https://img.shields.io/badge/ResNet-4B5563?style=flat-square)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
 
 **Programming & Systems**
 
@@ -36,6 +37,7 @@ Electrical & Electronic Engineering Undergraduate @ Konkuk University
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![ATmega128](https://img.shields.io/badge/ATmega128-555555?style=flat-square)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square)
+![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
