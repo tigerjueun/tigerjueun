@@ -62,9 +62,8 @@ Electrical & Electronic Engineering Undergraduate @ Konkuk University
 
 | Year | Official Activity / Competition | Result |
 |---|---|---|
-| 2025.01 | **2024 꿈(KU:Maker) 메이커 아이디어 공모전** | **4th Place Award** (2025.01.17) |
-| 2025.01 | **2024 한양 Hult Prize On Campus** | **Program Completed** (2025.01.24) |
-| 2025 | **건국대학교 창업아이디어톤** | Award recipient |
+| 2025 | **2024 꿈(KU:Maker) 메이커 아이디어 공모전** (건국대학교 창업아이디어톤) | **4th Place Award** |
+| 2025 | **2024 한양 Hult Prize On Campus** | **Program Completed** |
 | 2026 | **2026 Bootivation 해커톤** | **Engineering Lead** (엔지니어 총괄) |
 | 2026 | **건국대학교 제18회 창의설계경진대회** | Encouragement Award · AEGIS Team Lead |
 | 2026 | **제24회 임베디드SW경진대회 자유공모 부문** | Final-round demonstration and presentation completed · Results pending (as of Nov 12, 2026) |
